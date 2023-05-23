@@ -7,7 +7,7 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Chat's lobby room is located in localhost:4000/rooms
+Chat's lobby room is located in `[`localhost:4000/rooms`](http://localhost:4000/rooms)
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
